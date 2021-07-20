@@ -2,5 +2,5 @@ name: notebook
 channels:
   - conda-forge
 dependencies:
-  - parallel = v20210622
+  - parallel
   - mypy = 0.910
