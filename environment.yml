@@ -2,4 +2,4 @@ name: notebook
 channels:
   - conda-forge
 dependencies:
-  - click = 8.0.1
+  - parallel = v20210622
