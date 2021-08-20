@@ -4,3 +4,5 @@ channels:
 dependencies:
   - parallel
   - mypy = 0.910
+  - plotnine = 0.8.0
+  - pandas = 1.3.2
